@@ -1,1 +1,1 @@
-# HkrnkSubmssn
+# HackerRank Submissions
